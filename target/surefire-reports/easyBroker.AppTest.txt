@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: easyBroker.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.967 s - in easyBroker.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.97 s - in easyBroker.AppTest
